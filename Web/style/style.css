@@ -1,13 +1,18 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Protest Riot", sans-serif;
     margin: 0;
     padding: 0;
     background-color: #0D0D0D;
+    background-image: url(background.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .container {
     text-align: center;
-    margin-top: 50px;
+    flex-direction: row;
 }
 
 .btn {
