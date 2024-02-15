@@ -43,3 +43,22 @@ h1, h3, p {
 .protest-riot-regular {
     font-family: "Protest Riot", sans-serif;
 }
+.odkaz-button {
+    display: block;
+    width: 200px;
+    margin: 40px auto; 
+    padding: 10px;
+    text-align: center;
+    background-color: #e67e22; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none; 
+    font-family: "Protest Riot", sans-serif;
+    font-size: 20px;
+}
+
+body {
+    padding-bottom: 50px;
+}
