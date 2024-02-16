@@ -9,14 +9,14 @@ body {
 #postava {
     width: 680px;
     height: 400px;
-    background-image: url('alistar.jpg');
+    background-image: url('aatrox.jpg');
     background-size: cover;
     margin: 20px auto;
 }
 #jmeno-postavy {
     font-size: 50px;
     margin-top: 10px;
-    color: #fad819;
+    color: #ff1d1d;
 }
 #schopnosti {
     margin-top: 20px;
