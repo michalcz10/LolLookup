@@ -65,6 +65,7 @@ body {
 .champimg{
     padding: 0;
     margin: 0;
+    margin-right: 0.5vw;
     height: 8vh;
     width: auto;
 }
