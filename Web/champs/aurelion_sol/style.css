@@ -9,14 +9,14 @@ body {
 #postava {
     width: 680px;
     height: 400px;
-    background-image: url('alistar.jpg');
+    background-image: url('aurelionsol.jpg');
     background-size: cover;
     margin: 20px auto;
 }
 #jmeno-postavy {
     font-size: 50px;
     margin-top: 10px;
-    color: #5911ac;
+    color: #3021b6;
 }
 #schopnosti {
     margin-top: 20px;
@@ -30,7 +30,7 @@ body {
     padding: 20px;
     background-color: #1C1C1C;
     border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(129, 61, 218, 0.3);
+    box-shadow: 0 2px 5px rgba(4, 29, 175, 0.3);
 }
 .schopnost img {
     max-width: 100px;
