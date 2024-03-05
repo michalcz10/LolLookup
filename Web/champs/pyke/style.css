@@ -1,0 +1,64 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+    background-color: #0D0D0D;
+    color: #D3D3D3;
+    margin: 0;
+    padding: 0;
+}
+#postava {
+    width: 680px;
+    height: 400px;
+    background-image: url('pyke.jpg');
+    background-size: cover;
+    margin: 20px auto;
+}
+#jmeno-postavy {
+    font-size: 50px;
+    margin-top: 10px;
+    color: #172af7;
+}
+#schopnosti {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.schopnost {
+    flex-basis: 30%;
+    margin: 10px;
+    padding: 20px;
+    background-color: #1C1C1C;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(11, 20, 148, 0.3);
+}
+.schopnost img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 10px;
+}
+h1, h3, p {
+    color: #D3D3D3;
+}
+.protest-riot-regular {
+    font-family: "Protest Riot", sans-serif;
+}
+.odkaz-button {
+    display: block;
+    width: 200px;
+    margin: 40px auto; 
+    padding: 10px;
+    text-align: center;
+    background-color: #e67e22; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none; 
+    font-family: "Protest Riot", sans-serif;
+    font-size: 20px;
+}
+
+body {
+    padding-bottom: 50px;
+}
