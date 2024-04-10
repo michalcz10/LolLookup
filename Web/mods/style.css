@@ -45,3 +45,24 @@ body {
     text-align: center;
     margin-top: 10px;
 }
+
+.btnhome {
+    display: inline-block;
+    padding: 1vw;
+    background-color: #1c5a83;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 20vw;
+    font-size: 2vw;
+    width: 10vw;
+    margin: 3vh;
+    cursor: pointer;
+}
+.btnhome:hover {
+    background-color: #1a8bd6;
+}
+
+.heading{
+    font-size: 90px;
+}
