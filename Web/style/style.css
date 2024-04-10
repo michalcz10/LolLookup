@@ -10,6 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    width: 100vw;
 }
 
 .container {
@@ -32,5 +33,34 @@ body {
 }
 
 .btn:hover {
+    background-color: #1a8bd6;
+}
+
+.textback {
+    background-color: rgba(80,80,80,0.6);
+    font-size: 250%;
+    width: 50vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    border-radius: 100px;
+    color: whitesmoke;
+    padding: 2vw;
+    border:darkgray solid;
+}
+
+.btnhome {
+    display: inline-block;
+    padding: 1vw;
+    background-color: #1c5a83;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 20vw;
+    font-size: 2vw;
+    width: 10vw;
+    margin: 3vh;
+    cursor: pointer;
+}
+.btnhome:hover {
     background-color: #1a8bd6;
 }
