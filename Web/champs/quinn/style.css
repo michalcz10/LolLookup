@@ -16,7 +16,7 @@ body {
 #jmeno-postavy {
     font-size: 50px;
     margin-top: 10px;
-    color: #178bf7;
+    color: #004585;
 }
 #schopnosti {
     margin-top: 20px;
@@ -30,7 +30,7 @@ body {
     padding: 20px;
     background-color: #1C1C1C;
     border-radius: 10px;
-    box-shadow: 0 2px 5px rgb(1, 61, 110);
+    box-shadow: 0 2px 5px rgb(5, 63, 170);
 }
 .schopnost img {
     max-width: 100px;
