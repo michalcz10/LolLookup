@@ -4,25 +4,27 @@ body {
     padding: 0;
     background-color: #222;
     color: #fff;
+    
 }
 
 .container {
-    margin: 0 auto;
+    margin: 0;
     padding: 20px;
     text-align: center;
+    font-size: 100%;
 }
 
 .image-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    margin-top: 20px;
+    margin-top: 5vh;
+    flex-direction: row;
 }
 
 .image-box {
-    width: calc(50% - 20px);
-    max-width: 800px;
-    margin-bottom: 20px;
+    width: 30vw;
+    height: 55vh;
+    margin: 0.5vw;
     padding: 20px;
     background-color: #1a1919;
     border-radius: 10px;
@@ -44,4 +46,10 @@ body {
 .text-box {
     text-align: center;
     margin-top: 10px;
+    font-size: 120%;
+}
+
+.image-box img{
+    width: 29vw;
+    height: auto;
 }
