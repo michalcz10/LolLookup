@@ -54,15 +54,16 @@ body {
     text-decoration: none;
     border: none;
     border-radius: 20vw;
-    font-size: 2vw;
-    width: 10vw;
+    font-size: 180%;
+    width: 20%;
+    height: 20%;
     margin: 3vh;
     cursor: pointer;
+    min-width: 100px;
 }
 .btnhome:hover {
     background-color: #1a8bd6;
 }
-
 .heading{
     font-size: 90px;
 }
