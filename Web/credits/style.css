@@ -49,6 +49,16 @@ body {
     background-color: #1a8bd6;
 }
 
+img {
+    width: 5vw;
+    height: auto;
+    margin-top: 2vh;
+    margin-bottom: 0;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    border-radius: 10px;
+}
+
 @media screen and (max-width: 900px) {
     .textback {
         font-size: 100%;
